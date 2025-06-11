@@ -76,10 +76,10 @@ Introduction to Generative AI 🤖Explored Generative AI technologies and their 
 🌐 Socials
 Let’s connect!  
 
-📸 Instagram  
-💼 LinkedIn  
-🐙 GitHub  
-🌐 Portfolio
+📸 Instagram (https://www.instagram.com/chirag.bhoi_/) 
+💼 LinkedIn  (https://www.linkedin.com/in/chirag-bhoi-90b89b1b1/)
+🐙 GitHub  (https://github.com/chiragbhoi01)
+🌐 Portfolio (https://chiragbhoimarshal.netlify.app/)
 
 
 💻 Tech Stack
