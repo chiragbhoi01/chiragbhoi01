@@ -1,93 +1,112 @@
-🌟 Chirag Bhoi - Frontend Developer
 
-💫 About Me
-Hello! 👋 I'm Chirag Bhoi, a passionate Frontend Developer from Udaipur, Rajasthan, with a knack for building responsive, user-friendly, and visually appealing web applications. I specialize in React.js, JavaScript, TypeScript, and Tailwind CSS, focusing on creating seamless UI/UX experiences with a strong emphasis on performance, cross-browser compatibility, and real-time data handling. 💻
+# 🌟 Chirag Bhoi - Frontend Developer
 
-📍 Currently working as a Senior Research Analyst at Arcgate Technologies, Udaipur, where I manage data with precision using Excel and Google Sheets.
-🛠️ Previously honed my frontend skills as a Front End Developer Intern at IBMSkillBuild CSRBOX, India.
-🌱 Actively learning the MERN Stack (MongoDB, Express.js, React, Node.js) to transition into a full-stack developer.
-🎯 Driven by problem-solving, modern UI/UX trends, and continuous learning to stay ahead in the tech landscape.
+## 💫 About Me
 
+Hi there! 👋 I'm **Chirag Bhoi**, a frontend developer from **Udaipur, Rajasthan**, passionate about building responsive, user-friendly, and visually appealing web applications.
 
-💼 Professional Experience
-Senior Research Analyst
-Arcgate Technologies, Udaipur, RajasthanFeb 2024 – Present  
+I specialize in **React.js**, **TypeScript**, **JavaScript**, and **Tailwind CSS**, focusing on seamless UI/UX, performance optimization, and real-time data handling.
 
-Skilled in data entry and management using Excel, Google Sheets, and client tools.  
-Focused on maintaining high data accuracy with a detail-oriented approach. 📊
+- 💼 Currently working as a **Senior Research Analyst** at **Arcgate Technologies**
+- 👨‍💻 Former **Frontend Developer Intern** at **IBM SkillBuild CSRBOX**
+- 🌱 Actively learning the **MERN Stack** to become a full-stack developer
+- 🎯 Motivated by modern UI/UX trends and continuous learning
 
-Front End Developer Intern
-IBMSkillBuild CSRBOX, IndiaJul 2024 – Aug 2024  
+---
 
-Developed responsive web pages and components using HTML, CSS, JavaScript, and React.js.  
-Optimized performance and ensured cross-browser compatibility while integrating APIs. 🖥️
+## 🛠️ Skills
 
+**Frontend Development:**
+- Languages: JavaScript, TypeScript, HTML5, CSS3
+- Frameworks/Libraries: React.js, React Router
+- Styling: Tailwind CSS
 
-🛠️ Skills
-Frontend Development 🌐
+**Backend & Databases (Learning):**
+- MERN Stack: MongoDB, Express.js, React, Node.js
+- Database Tools: MongoDB (Beginner), Mongoose (Learning)
 
-Languages: JavaScript, TypeScript, HTML5, CSS3  
-Frameworks & Libraries: React.js, React Router  
-Styling: Tailwind CSS, CSS3
+**Tools & Platforms:**
+- Code & Design: VS Code, Figma, Postman
+- Version Control: Git, GitHub
+- Deployment: Vercel, Netlify
+- Productivity: MS Office, Google Sheets
 
-Backend & Databases (Learning) 🌱
+---
 
-MERN Stack: MongoDB, Express.js, React, Node.js  
-Database Management: MongoDB (Beginner), Mongoose (Learning)
+## 💼 Work Experience
 
-Tools & Platforms 🚀
+**Senior Research Analyst**  
+*Arcgate Technologies, Udaipur* | Feb 2024 – Present  
+• Managed and analyzed data using Excel, Google Sheets, and client tools  
+• Ensured data accuracy and consistency with a detail-oriented approach
 
-Development Tools: VS Code, Figma, Postman  
-Version Control: Git, GitHub  
-Deployment: Vercel, Netlify  
-Others: MS Office, Excel, Google Sheets
+**Frontend Developer Intern** *(Upcoming)*  
+*IBM SkillBuild CSRBOX, India* | Jul 2024 – Aug 2024  
+• Will work on responsive web components using React.js, HTML, CSS, and JavaScript  
+• Focus on API integration, UI optimization, and cross-browser compatibility
 
+---
 
-🖼️ Featured Projects
+## 🖼️ Featured Projects
 
-E-commerce Jewelry Website 💎Built with React.js and Tailwind CSS. Features a random password generator tool for secure user interactions.Live Demo
+### 💎 E-commerce Jewelry Website  
+Built with **React.js** and **Tailwind CSS**, featuring a clean UI for browsing products  
+🔗 [Live Demo](#) • [GitHub](#)
 
-Personal Portfolio SPA 🌐A single-page application using React.js and React Router, integrating GitHub API to display user data.Live Demo
+### 🌐 Personal Portfolio SPA  
+Single-page portfolio app built with **React.js** and **GitHub API**, showcasing GitHub stats and user data  
+🔗 [Live Demo](#) • [GitHub](#)
 
-Weather Checker ☁️A web app using JavaScript, CSS, and HTML with real-time weather data fetched via API using async/await.Live Demo
+### ☁️ Weather Checker  
+Real-time weather app using **OpenWeather API**, built with **JavaScript**, **HTML**, and **CSS**  
+🔗 [Live Demo](#) • [GitHub](#)
 
-Calculator 🧮A simple calculator built with HTML, CSS, and JavaScript, featuring real-time arithmetic operations.GitHub
+### 🧮 Calculator  
+Basic calculator built with HTML, CSS, and JavaScript for real-time operations  
+🔗 [GitHub](#)
 
+---
 
+## 🎓 Education
 
-🎓 Education
-Master of Computer Application (MCA) in Information Technology
-Manipal University Jaipur, Jaipur, RajasthanMar 2024 – Mar 2026 (Ongoing)  
-Bachelor of Science
-Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur, RajasthanAug 2020 – Jul 2023
+**Master of Computer Applications (MCA)**  
+Manipal University Jaipur, Rajasthan | *Mar 2024 – Mar 2026*
 
-🏆 Certifications
+**Bachelor of Science**  
+Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur | *Aug 2020 – Jul 2023*
 
-React.js Essential Training (LinkedIn) 🎖️Mastered core React.js concepts like components, state management, and hooks.View Certificate
+---
 
-JavaScript Essential Training (LinkedIn) 📜Gained foundational knowledge in object-oriented programming and data structures.View Certificate
+## 🏆 Certifications
 
-Programming Foundations with JavaScript, HTML, and CSS (Coursera) 💻Learned core programming concepts and web development fundamentals.View Certificate
+- **React.js Essential Training** – LinkedIn  
+- **JavaScript Essential Training** – LinkedIn  
+- **Programming Foundations with JavaScript, HTML, and CSS** – Coursera  
+- **Introduction to Generative AI** – Google
 
-Introduction to Generative AI 🤖Explored Generative AI technologies and their applications in content creation and IT.View Certificate
+---
 
+## 🌐 Connect with Me
 
+[💼 LinkedIn](#) • [🐙 GitHub](#) • [🌐 Portfolio](#) • [📸 Instagram](#)
 
-🌐 Socials
-Let’s connect!  
+📫 Email: mr.chiragbhoi2003@gmail.com  
+📞 Phone: (+91) 7427837782
 
-📸 [Instagram](https://www.instagram.com/chirag.bhoi_/) 
-💼 [LinkedIn](https://www.linkedin.com/in/chirag-bhoi-90b89b1b1/)
-🐙 [GitHub](https://github.com/chiragbhoi01)
-🌐 [Portfolio](https://chiragbhoimarshal.netlify.app/)
+---
 
+## 📊 GitHub Stats
 
-💻 Tech Stack
+![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragbhoi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhoi&layout=compact&theme=radical)
 
+---
 
-📊 GitHub Stats
+## 🤝 Let’s Collaborate
 
+I'm open to:
+- 🧩 Open-source contributions
+- 💻 Collaborative development
+- 🎯 Learning and growing together
 
-🤝 Let’s Collaborate!
-I’m excited to collaborate on innovative projects, contribute to open-source, or learn something new. Reach out to me:📫 Email: mr.chiragbhoi2003@gmail.com📞 Phone: (+91) 7427837782  
-Thanks for stopping by! Let’s build something amazing together! 🚀
+Thanks for visiting! Let’s build something amazing together 🚀
