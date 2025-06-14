@@ -95,12 +95,6 @@ Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur | *Aug 2020 – Jul 2023*
 
 ---
 
-## 📊 GitHub Stats
-
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragbhoi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhoi&layout=compact&theme=radical)
-
----
 
 ## 🤝 Let’s Collaborate
 
