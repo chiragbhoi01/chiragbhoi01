@@ -2,13 +2,13 @@
 
 ## 👋 About Me
 
-I'm **Chirag Bhoi**, a passionate **Frontend Developer** based in **Udaipur, Rajasthan**, dedicated to building **responsive**, **accessible**, and **high-performance** web applications. With expertise in **React.js**, **TypeScript**, **Next.js**, and **Tailwind CSS**, I focus on delivering seamless UI/UX experiences and optimized solutions. My goal is to create intuitive interfaces that delight users and drive engagement.
+I'm **Chirag Bhoi**, a **Frontend Developer** from **Udaipur, Rajasthan**, passionate about crafting **responsive**, **accessible**, and **high-performance** web applications. I specialize in **React.js**, **TypeScript**, and **Tailwind CSS**, focusing on delivering seamless UI/UX experiences. My mission is to build intuitive, user-centric interfaces that drive engagement and delight users.
 
-Currently, I'm contributing to **Foodie AI**, a cutting-edge AI-powered food platform built with **Next.js**, **Mantine**, and **OpenAI APIs**. I'm also expanding my skill set by exploring the **MERN stack** to transition into full-stack development.
+I’m currently expanding my skill set by exploring the **MERN stack** to transition into full-stack development.
 
 - 💼 **Senior Research Analyst** at **Arcgate Technologies**  
 - 👨‍💻 Former **Frontend Developer Intern** at **IBM SkillBuild CSRBOX**  
-- 🎯 Passionate about modern UI/UX, performance optimization, and continuous learning  
+- 🎯 Enthusiastic about modern UI/UX, performance optimization, and continuous learning  
 - 📍 **Udaipur, Rajasthan, India**
 
 ---
@@ -17,17 +17,16 @@ Currently, I'm contributing to **Foodie AI**, a cutting-edge AI-powered food pla
 
 ### Frontend Development
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Frameworks & Libraries**: React.js, Next.js, React Router, Redux Toolkit  
-- **Styling**: Tailwind CSS, Mantine, Framer Motion, Styled Components  
-
-### Backend & Databases (Learning)
+- **Frameworks & Libraries**: React.js React Router, Redux Toolkit  
+- **Styling**: Tailwind CSS
+### Backend & Databases (In Progress)
 - **Technologies**: Node.js, Express.js, MongoDB, Firebase  
-- **Tools**: Mongoose, REST APIs(Beginner)  
+- **Tools**: Mongoose, REST APIs  
 
 ### Tools & Platforms
 - **Development**: VS Code, Figma, Postman, Git, GitHub, Vite  
 - **Deployment**: Vercel, Netlify, Firebase Hosting  
-- **Other**: Excel, Google Sheets 
+- **Other**: Excel, Google Sheets, npm, Yarn  
 
 ---
 
@@ -35,43 +34,43 @@ Currently, I'm contributing to **Foodie AI**, a cutting-edge AI-powered food pla
 
 ### Senior Research Analyst  
 *Arcgate Technologies, Udaipur, Rajasthan* | Feb 2024 – Present  
-- Analyze and process large datasets using **Excel** and **Google Sheets** to deliver actionable insights with 99% accuracy.  
-- Collaborate with cross-functional teams to streamline workflows and enhance data-driven decision-making.  
-- Implement automation scripts to improve data processing efficiency by 20%.  
+- Process and analyze large datasets using **Excel** and **Google Sheets**, achieving 99% data accuracy.  
+- Collaborate with cross-functional teams to enhance workflows and support data-driven decisions.  
+- Developed automation scripts, improving data processing efficiency by 20%.  
 
 ### Frontend Developer Intern  
 *IBM SkillBuild CSRBOX, Remote* | Jul 2024 – Aug 2024  
-- Developed responsive, accessible web components using **React.js**, **TypeScript**, and **Tailwind CSS**.  
-- Integrated REST APIs for dynamic content delivery, ensuring cross-browser compatibility.  
-- Optimized UI performance, reducing load times by 15% through code splitting and lazy loading.  
+- Built responsive, accessible web components with **React.js**, **TypeScript**, and **Tailwind CSS**.  
+- Integrated REST APIs for dynamic content, ensuring cross-browser compatibility.  
+- Optimized UI performance, reducing load times by 15% via code splitting and lazy loading.  
 
 ---
 
 ## 🖼️ Featured Projects
 
-### 🍽️ Foodie AI  
-An AI-driven food recommendation platform built with **Next.js**, **TypeScript**, **Mantine**, and **OpenAI APIs**. Features include dynamic UI, real-time recipe suggestions, and personalized user experiences.  
-- **Tech**: Next.js, TypeScript, Mantine, OpenAI, Firebase  
-- **Highlights**: Implemented SSR for SEO, reduced API latency by 30% with caching.  
-🔗 [GitHub](https://github.com/chiragbhoi01/foodie-ai) *(In Progress)*  
-
 ### 💎 Miss Gypsy - Jewelry E-commerce  
-A responsive e-commerce platform for jewelry shopping, featuring dynamic product filtering and a modern UI.  
+A responsive e-commerce platform with dynamic product filtering and modern UI.  
 - **Tech**: React.js, Tailwind CSS, Firebase, Vite  
-- **Highlights**: Built with dynamic routing and API integration for real-time product data; achieved 95% Lighthouse performance score.  
+- **Highlights**: Achieved 95% Lighthouse performance score; integrated dynamic routing and real-time product data.  
 🔗 [Live Demo](https://chirag-shopmissgypsy.vercel.app/) | [GitHub](https://github.com/chiragbhoi01/Ecommerce-jewellery-website)  
 
 ### 🌐 Personal Portfolio SPA  
-A single-page application showcasing my projects and GitHub stats, built with **React.js** and **GitHub API**.  
+A single-page application showcasing projects and GitHub stats.  
 - **Tech**: React.js, Tailwind CSS, GitHub API, Netlify  
 - **Highlights**: Real-time GitHub stats integration; mobile-first design with 100% accessibility score.  
 🔗 [Live Demo](https://chiragbhoimarshal.netlify.app/) | [GitHub](https://github.com/chiragbhoi01/Chirag-Portfolio)  
 
 ### ☁️ Weather Checker  
-A real-time weather application using the **OpenWeather API** for accurate forecasts.  
+A real-time weather app with dynamic UI based on weather conditions.  
 - **Tech**: JavaScript, HTML5, CSS3, OpenWeather API  
-- **Highlights**: Minimalist UI with dynamic background changes based on weather conditions.  
+- **Highlights**: Minimalist design with async/await for efficient API data fetching.  
 🔗 [Live Demo](https://chirag-weatherchecker.netlify.app/) | [GitHub](https://github.com/chiragbhoi01/Weather-Checker)  
+
+### ✅ To-Do App  
+A clean and responsive task management app with add, edit, delete, and sorting functionalities.  
+- **Tech**: React.js, TypeScript, Tailwind CSS  
+- **Highlights**: Features alphabetical, time, and date-based sorting; automatic timestamping for tasks; responsive UI.  
+🔗 [Live Demo](https://chirag-todoapp.vercel.app/) | [GitHub](https://github.com/chiragbhoi01/todo-app)  
 
 ---
 
@@ -79,7 +78,7 @@ A real-time weather application using the **OpenWeather API** for accurate forec
 
 ### Master of Computer Applications (MCA)  
 *Manipal University Jaipur, Remote* | Mar 2024 – Mar 2026  
-- Relevant Coursework: Advanced Web Development, Data Structures, Cloud Computing  
+- **Coursework**: Advanced Web Development, Data Structures, Cloud Computing  
 
 ### Bachelor of Science (B.Sc.)  
 *Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur* | Aug 2020 – Jul 2023  
@@ -108,11 +107,11 @@ A real-time weather application using the **OpenWeather API** for accurate forec
 
 ---
 
-## 🤝 Let’s Build Something Amazing
+## 🤝 Let’s Collaborate
 
-I'm eager to collaborate on:  
-- 🧩 Open-source projects in React or Next.js  
+I’m excited to work on:  
+- 🧩 Open-source projects in **React** or **Next.js**  
 - 🚀 Innovative web applications with modern tech stacks  
-- 🌱 Mentorship and learning opportunities in full-stack development  
+- 🌱 Full-stack development and mentorship opportunities  
 
-Thank you for visiting my portfolio! Let's connect to create user-centric, high-impact solutions together! 🚀
+Thank you for exploring my portfolio! Let’s connect to build impactful, user-focused solutions together! 🚀
