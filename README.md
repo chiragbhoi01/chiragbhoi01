@@ -1,117 +1,100 @@
-# 🌟 Chirag Bhoi - Frontend Developer
+<div align="center">
+  <img src="https://custom-image-url-for-profile-banner" alt="Chirag Bhoi Developer Banner" style="max-width: 100%; height: auto;">
+  <h1>🌟 Chirag Bhoi - Full-Stack Driven Frontend Developer 🌟</h1>
+</div>
 
-## 👋 About Me
+👋 About Me
+---
+I'm **Chirag Bhoi**, a passionate Frontend Developer from Udaipur, Rajasthan, specializing in creating **responsive, accessible, and high-performance** web applications. I focus on delivering seamless UI/UX experiences using modern tech.
 
-I'm **Chirag Bhoi**, a **Frontend Developer** from **Udaipur, Rajasthan**, passionate about crafting **responsive**, **accessible**, and **high-performance** web applications. I specialize in **React.js**, **TypeScript**, and **Tailwind CSS**, focusing on delivering seamless UI/UX experiences. My mission is to build intuitive, user-centric interfaces that drive engagement and delight users.
+My core expertise lies in **React.js, Next.js, TypeScript, and Tailwind CSS**.
 
-I’m currently expanding my skill set by exploring the **MERN stack** to transition into full-stack development.
+I am currently focusing on bridging the gap between frontend and backend, actively transitioning into **Full-Stack Development** by applying the **MERN stack (MongoDB, Express, React, Node.js)** to deliver end-to-end solutions.
 
-- 💼 **Senior Research Analyst** at **Arcgate Technologies**  
-- 👨‍💻 Former **Frontend Developer Intern** at **IBM SkillBuild CSRBOX**  
-- 🎯 Enthusiastic about modern UI/UX, performance optimization, and continuous learning  
-- 📍 **Udaipur, Rajasthan, India**
+| **Key Roles** | **Focus** |
+| :--- | :--- |
+| **Full-Stack Developer** | Building complete applications (Next.js, Node.js, MongoDB) |
+| **Former Frontend Developer Intern** | IBM SkillBuild CSRBOX (Performance Optimization) |
+| **Previous Role** | Senior Research Analyst at Arcgate Technologies (Analytical Skills) |
+| **Enthusiasm** | Modern UI/UX, Performance Optimization, and Continuous Learning |
+| **Location** | Udaipur, Rajasthan, India |
 
 ---
 
-## 🛠️ Technical Skills
-
-### Frontend Development
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Frameworks & Libraries**: React.js React Router, Redux Toolkit  
-- **Styling**: Tailwind CSS
-### Backend & Databases (In Progress)
-- **Technologies**: Node.js, Express.js, MongoDB, Firebase  
-- **Tools**: Mongoose, REST APIs  
-
-### Tools & Platforms
-- **Development**: VS Code, Figma, Postman, Git, GitHub, Vite  
-- **Deployment**: Vercel, Netlify, Firebase Hosting  
-- **Other**: Excel, Google Sheets, npm, Yarn  
+🛠️ Technical Skills
+---
+| Category | Skills |
+| :--- | :--- |
+| **Frontend Core** | **React.js, Next.js 14**, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
+| **Styling & UX** | **Tailwind CSS**, Shadcn/ui, Figma, Responsive Design |
+| **Backend & Databases** | **Node.js, Express.js, MongoDB** (Mongoose), Firebase, REST APIs |
+| **State Management** | React Router, Redux Toolkit |
+| **Tools & Platforms** | VS Code, Postman, **Git, GitHub**, Vite, Vercel, Netlify |
 
 ---
 
-## 💼 Professional Experience
+💼 Professional Experience
+---
+### Senior Research Analyst
+*Arcgate Technologies, Udaipur, Rajasthan | Feb 2024 – Present*
+* Applied **analytical skills** to process and analyze large datasets using Excel and Google Sheets, achieving high data accuracy (99%).
+* Developed **automation scripts**, improving data processing efficiency by **20%**.
 
-### Senior Research Analyst  
-*Arcgate Technologies, Udaipur, Rajasthan* | Feb 2024 – Present  
-- Process and analyze large datasets using **Excel** and **Google Sheets**, achieving 99% data accuracy.  
-- Collaborate with cross-functional teams to enhance workflows and support data-driven decisions.  
-- Developed automation scripts, improving data processing efficiency by 20%.  
-
-### Frontend Developer Intern  
-*IBM SkillBuild CSRBOX, Remote* | Jul 2024 – Aug 2024  
-- Built responsive, accessible web components with **React.js**, **TypeScript**, and **Tailwind CSS**.  
-- Integrated REST APIs for dynamic content, ensuring cross-browser compatibility.  
-- Optimized UI performance, reducing load times by 15% via code splitting and lazy loading.  
+### Frontend Developer Intern
+*IBM SkillBuild CSRBOX, Remote | Jul 2024 – Aug 2024*
+* Built responsive, accessible web components with **React.js, TypeScript, and Tailwind CSS**.
+* **Optimized UI performance**, reducing load times by **15%** via code splitting and lazy loading.
 
 ---
 
-## 🖼️ Featured Projects
+🖼️ Featured Projects
+---
+*(Note: I am replacing 'Miss Gypsy' with the new full-stack project for maximum impact.)*
 
-### 💎 Miss Gypsy - Jewelry E-commerce  
-A responsive e-commerce platform with dynamic product filtering and modern UI.  
-- **Tech**: React.js, Tailwind CSS, Firebase, Vite  
-- **Highlights**: Achieved 95% Lighthouse performance score; integrated dynamic routing and real-time product data.  
-🔗 [Live Demo](https://chirag-shopmissgypsy.vercel.app/) | [GitHub](https://github.com/chiragbhoi01/Ecommerce-jewellery-website)  
+### 👑 RAJMAHAL UDAIPUR - Full-Stack E-commerce
+**A complete E-commerce Rental Platform with a secure Admin CMS.**
 
-### 🌐 Personal Portfolio SPA  
-A single-page application showcasing projects and GitHub stats.  
-- **Tech**: React.js, Tailwind CSS, GitHub API, Netlify  
-- **Highlights**: Real-time GitHub stats integration; mobile-first design with 100% accessibility score.  
-🔗 [Live Demo](https://chiragbhoimarshal.netlify.app/) | [GitHub](https://github.com/chiragbhoi01/Chirag-Portfolio)  
+* **Tech:** Next.js 14, Node.js, Express.js, MongoDB, TypeScript, JWT.
+* **Highlights:** Full **MERN stack** implementation; Features **JWT-based authentication** and **role-based access control** for the Admin dashboard; Demonstrates end-to-end data flow and API security.
 
-### ☁️ Weather Checker  
-A real-time weather app with dynamic UI based on weather conditions.  
-- **Tech**: JavaScript, HTML5, CSS3, OpenWeather API  
-- **Highlights**: Minimalist design with async/await for efficient API data fetching.  
-🔗 [Live Demo](https://chirag-weatherchecker.netlify.app/) | [GitHub](https://github.com/chiragbhoi01/Weather-Checker)  
+🔗 [Live Demo Link] | [GitHub Link]
 
-### ✅ To-Do App  
-A clean and responsive task management app with add, edit, delete, and sorting functionalities.  
-- **Tech**: React.js, TypeScript, Tailwind CSS  
-- **Highlights**: Features alphabetical, time, and date-based sorting; automatic timestamping for tasks; responsive UI.  
-🔗 [Live Demo](https://chirag-todoapp.vercel.app/) | [GitHub](https://github.com/chiragbhoi01/todo-app)  
+### 💎 Miss Gypsy - Jewelry E-commerce
+**A responsive e-commerce platform with dynamic product filtering and modern UI.**
+
+* **Tech:** React.js, Tailwind CSS, Firebase, Vite
+* **Highlights:** Achieved **95% Lighthouse performance score**; integrated dynamic routing and real-time product data.
+
+🔗 Live Demo | GitHub
+
+### 🌐 Personal Portfolio SPA
+**A single-page application showcasing projects and real-time GitHub stats.**
+
+* **Tech:** React.js, Tailwind CSS, GitHub API, Netlify
+* **Highlights:** Real-time **GitHub stats integration**; **mobile-first design** with 100% accessibility score.
+
+### ✅ To-Do App
+**A clean and responsive task management app with advanced sorting features.**
+
+* **Tech:** React.js, TypeScript, Tailwind CSS
+* **Highlights:** Features alphabetical, time, and date-based **sorting functionalities**; built entirely with React and TypeScript.
 
 ---
 
-## 🎓 Education
-
-### Master of Computer Applications (MCA)  
-*Manipal University Jaipur, Remote* | Mar 2024 – Mar 2026  
-- **Coursework**: Advanced Web Development, Data Structures, Cloud Computing  
-
-### Bachelor of Science (B.Sc.)  
-*Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur* | Aug 2020 – Jul 2023  
-- Graduated with Distinction (85% aggregate)  
+🎓 Education
+---
+* **Master of Computer Applications (MCA)**
+    * *Manipal University Jaipur, Remote | Mar 2024 – Mar 2026*
+* **Bachelor of Science (B.Sc.)**
+    * *Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur | Aug 2020 – Jul 2023*
 
 ---
-
-## 🏆 Certifications
-
-- **React.js Essential Training** – LinkedIn Learning (2024)  
-- **JavaScript Essential Training** – LinkedIn Learning (2024)  
-- **Programming Foundations with JavaScript, HTML, and CSS** – Coursera (2023)  
-- **Introduction to Generative AI** – Google Cloud Skills Boost (2024)  
-- **TypeScript for Beginners** – Udemy (2024)  
+🌐 Connect with Me
+---
+* **💼 LinkedIn:** [Your LinkedIn URL]
+* **🐙 GitHub:** [Your GitHub URL]
+* **📫 Email:** mr.chiragbhoi2003@gmail.com
+* **📞 Phone:** (+91) 7427837782
 
 ---
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chirag-bhoi-90b89b1b1/)  
-- 🐙 [GitHub](https://github.com/chiragbhoi01)  
-- 🌐 [Portfolio](https://chiragbhoimarshal.netlify.app/)  
-- 📸 [Instagram](https://www.instagram.com/chirag.bhoi_/)  
-- 📫 **Email**: mr.chiragbhoi2003@gmail.com  
-- 📞 **Phone**: (+91) 7427837782  
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m excited to work on:  
-- 🧩 Open-source projects in **React** or **Next.js**  
-- 🚀 Innovative web applications with modern tech stacks  
-- 🌱 Full-stack development and mentorship opportunities  
-
-Thank you for exploring my portfolio! Let’s connect to build impactful, user-focused solutions together! 🚀
+**Thank you for exploring my profile! Let’s connect to build impactful, user-focused solutions together! 🚀**
