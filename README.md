@@ -1,100 +1,95 @@
 <div align="center">
-  <img src="https://custom-image-url-for-profile-banner" alt="Chirag Bhoi Developer Banner" style="max-width: 100%; height: auto;">
-  <h1>🌟 Chirag Bhoi - Full-Stack Driven Frontend Developer 🌟</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0099ff&height=180&section=header&text=CHIRAG%20BHOI&fontSize=80&fontAlign=50&fontAlignY=35&desc=The%20Tech%20Marshal%20%7C%20Innovator&descAlign=50&descAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-👋 About Me
----
-I'm **Chirag Bhoi**, a passionate Frontend Developer from Udaipur, Rajasthan, specializing in creating **responsive, accessible, and high-performance** web applications. I focus on delivering seamless UI/UX experiences using modern tech.
-
-My core expertise lies in **React.js, Next.js, TypeScript, and Tailwind CSS**.
-
-I am currently focusing on bridging the gap between frontend and backend, actively transitioning into **Full-Stack Development** by applying the **MERN stack (MongoDB, Express, React, Node.js)** to deliver end-to-end solutions.
-
-| **Key Roles** | **Focus** |
-| :--- | :--- |
-| **Full-Stack Developer** | Building complete applications (Next.js, Node.js, MongoDB) |
-| **Former Frontend Developer Intern** | IBM SkillBuild CSRBOX (Performance Optimization) |
-| **Previous Role** | Senior Research Analyst at Arcgate Technologies (Analytical Skills) |
-| **Enthusiasm** | Modern UI/UX, Performance Optimization, and Continuous Learning |
-| **Location** | Udaipur, Rajasthan, India |
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1D74F2&center=true&vCenter=true&width=500&lines=🏆+National+Finalist+(VBYLD+2026);💻+MERN+Stack+Developer;♻️+EcoGuard+Creator;🚀+Building+Visit+Vagad" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-🛠️ Technical Skills
----
-| Category | Skills |
-| :--- | :--- |
-| **Frontend Core** | **React.js, Next.js 14**, JavaScript (ES6+), TypeScript, HTML5, CSS3 |
-| **Styling & UX** | **Tailwind CSS**, Shadcn/ui, Figma, Responsive Design |
-| **Backend & Databases** | **Node.js, Express.js, MongoDB** (Mongoose), Firebase, REST APIs |
-| **State Management** | React Router, Redux Toolkit |
-| **Tools & Platforms** | VS Code, Postman, **Git, GitHub**, Vite, Vercel, Netlify |
+<div align="center">
+  <h3>🚨 CURRENT MISSION: NATIONAL FINALS 🇮🇳 🚨</h3>
+  <p>Selected for <b>Viksit Bharat Young Leaders Dialogue 2026</b> to represent Rajasthan with <a href="https://github.com/chiragbhoi01/ecoguard-lakecity"><b>EcoGuard</b></a>.</p>
+</div>
 
 ---
 
-💼 Professional Experience
----
-### Senior Research Analyst
-*Arcgate Technologies, Udaipur, Rajasthan | Feb 2024 – Present*
-* Applied **analytical skills** to process and analyze large datasets using Excel and Google Sheets, achieving high data accuracy (99%).
-* Developed **automation scripts**, improving data processing efficiency by **20%**.
+### 👨‍💻 About Me
 
-### Frontend Developer Intern
-*IBM SkillBuild CSRBOX, Remote | Jul 2024 – Aug 2024*
-* Built responsive, accessible web components with **React.js, TypeScript, and Tailwind CSS**.
-* **Optimized UI performance**, reducing load times by **15%** via code splitting and lazy loading.
+> *"Combining rural wisdom with modern AI to build a Sustainable India."*
+
+I am **Chirag Bhoi** (aka *Marshal*), a Full-Stack Developer based in **Udaipur**. I specialize in building logic-driven, high-performance web applications. My coding journey started from a small village in Banswara, and now I'm competing at the National level.
+
+- 🔭 **Currently Building:** [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad) (Tourism Tech)
+- 🤝 **Open for:** Full-Time Developer Roles (React/Node/Next.js)
+- [cite_start]⚡ **Superpower:** I turn complex data into clean UI (Thanks to my Analyst background!) [cite: 16]
 
 ---
 
-🖼️ Featured Projects
----
-*(Note: I am replacing 'Miss Gypsy' with the new full-stack project for maximum impact.)*
+### 🚀 The Arsenal (Tech Stack)
 
-### 👑 RAJMAHAL UDAIPUR - Full-Stack E-commerce
-**A complete E-commerce Rental Platform with a secure Admin CMS.**
+<div align="center">
 
-* **Tech:** Next.js 14, Node.js, Express.js, MongoDB, TypeScript, JWT.
-* **Highlights:** Full **MERN stack** implementation; Features **JWT-based authentication** and **role-based access control** for the Admin dashboard; Demonstrates end-to-end data flow and API security.
+| **Core Stack** | **Database & Cloud** | **Tools & DevOps** |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-🔗 [Live Demo Link] | [GitHub Link]
-
-### 💎 Miss Gypsy - Jewelry E-commerce
-**A responsive e-commerce platform with dynamic product filtering and modern UI.**
-
-* **Tech:** React.js, Tailwind CSS, Firebase, Vite
-* **Highlights:** Achieved **95% Lighthouse performance score**; integrated dynamic routing and real-time product data.
-
-🔗 Live Demo | GitHub
-
-### 🌐 Personal Portfolio SPA
-**A single-page application showcasing projects and real-time GitHub stats.**
-
-* **Tech:** React.js, Tailwind CSS, GitHub API, Netlify
-* **Highlights:** Real-time **GitHub stats integration**; **mobile-first design** with 100% accessibility score.
-
-### ✅ To-Do App
-**A clean and responsive task management app with advanced sorting features.**
-
-* **Tech:** React.js, TypeScript, Tailwind CSS
-* **Highlights:** Features alphabetical, time, and date-based **sorting functionalities**; built entirely with React and TypeScript.
+</div>
 
 ---
 
-🎓 Education
----
-* **Master of Computer Applications (MCA)**
-    * *Manipal University Jaipur, Remote | Mar 2024 – Mar 2026*
-* **Bachelor of Science (B.Sc.)**
-    * *Janardan Rai Nagar Rajasthan Vidyapeeth, Udaipur | Aug 2020 – Jul 2023*
+### 🏆 Featured Projects
+
+| Project | Type | Tech Used | Impact |
+| :--- | :--- | :--- | :--- |
+| **♻️ [EcoGuard](https://github.com/chiragbhoi01/ecoguard-lakecity)** | **AI / IoT** | `Gemini AI` `Next.js` `Maps API` | [cite_start]**National Finalist Project.** Smart waste segregation & routing. [cite: 96] |
+| **🏰 [Rajmahal](https://github.com/chiragbhoi01/fullstackproject)** | **E-Comm** | `MERN` `JWT` `Redux` | [cite_start]Full Rental Platform with **Admin CMS** & Auth. [cite: 30] |
+| **🏞️ [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad)** | **Tourism** | `TypeScript` `React` | [cite_start]Promoting culture of the **City of 100 Islands**. [cite: 89] |
+| **💰 [Expense Tracker](https://github.com/chiragbhoi01/MoneyExpense-Tracker)** | **Finance** | `Svelte` `Appwrite` | [cite_start]Lightweight expense manager with secure login. [cite: 172] |
+| **💎 [Jewelry Store](https://github.com/chiragbhoi01/Ecommerce-jewellery-website)** | **E-Comm** | `React` `Tailwind` | [cite_start]Modern UI with dynamic filtering & sorting. [cite: 166] |
 
 ---
-🌐 Connect with Me
----
-* **💼 LinkedIn:** [Your LinkedIn URL]
-* **🐙 GitHub:** [Your GitHub URL]
-* **📫 Email:** mr.chiragbhoi2003@gmail.com
-* **📞 Phone:** (+91) 7427837782
+
+### 📊 Coding Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragbhoi01&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragbhoi01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhoi01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragbhoi01&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
 
 ---
-**Thank you for exploring my profile! Let’s connect to build impactful, user-focused solutions together! 🚀**
+
+### 🌐 Connect With Me
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/chirag-bhoi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mr.chiragbhoi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://chiragbhoimarshal.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <sub>Profile Visits</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=chiragbhoi01&label=VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
