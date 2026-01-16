@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0099ff&height=180&section=header&text=CHIRAG%20BHOI&fontSize=80&fontAlign=50&fontAlignY=35&desc=The%20Tech%20Marshal%20%7C%20Innovator&descAlign=50&descAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0099ff&height=180&section=header&text=CHIRAG%20BHOI&fontSize=80&fontAlign=50&fontAlignY=35&desc=National%20Finalist%20%7C%20The%20Tech%20Marshal&descAlign=50&descAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -11,8 +11,9 @@
 ---
 
 <div align="center">
-  <h3>🚨 CURRENT MISSION: NATIONAL FINALS 🇮🇳 🚨</h3>
-  <p>Selected for <b>Viksit Bharat Young Leaders Dialogue 2026</b> to represent Rajasthan with <a href="https://github.com/chiragbhoi01/ecoguard-lakecity"><b>EcoGuard</b></a>.</p>
+  <h3>🏆 ACHIEVEMENT UNLOCKED: NATIONAL FINALIST 🇮🇳</h3>
+  <p>Represented Rajasthan at the <b>Viksit Bharat Young Leaders Dialogue 2026</b> with <a href="https://github.com/chiragbhoi01/ecoguard-lakecity"><b>EcoGuard</b></a>.</p>
+  <i>"Competed among India's top young visionaries at the National Stage."</i>
 </div>
 
 ---
@@ -21,11 +22,11 @@
 
 > *"Combining rural wisdom with modern AI to build a Sustainable India."*
 
-I am **Chirag Bhoi** (aka *Marshal*), a Full-Stack Developer based in **Udaipur**. I specialize in building logic-driven, high-performance web applications. My coding journey started from a small village in Banswara, and now I'm competing at the National level.
+I am **Chirag Bhoi** (aka *Marshal*), a Full-Stack Developer based in **Udaipur**. I specialize in building logic-driven, high-performance web applications. My journey started from a small village in Banswara to representing my state at the **National Finals**.
 
 - 🔭 **Currently Building:** [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad) (Tourism Tech)
 - 🤝 **Open for:** Full-Time Developer Roles (React/Node/Next.js)
-- [cite_start]⚡ **Superpower:** I turn complex data into clean UI (Thanks to my Analyst background!) [cite: 16]
+- ⚡ **Superpower:** I turn complex data into clean UI (Thanks to my Analyst background!)
 
 ---
 
@@ -37,7 +38,7 @@ I am **Chirag Bhoi** (aka *Marshal*), a Full-Stack Developer based in **Udaipur*
 | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) |
 | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 </div>
@@ -48,11 +49,11 @@ I am **Chirag Bhoi** (aka *Marshal*), a Full-Stack Developer based in **Udaipur*
 
 | Project | Type | Tech Used | Impact |
 | :--- | :--- | :--- | :--- |
-| **♻️ [EcoGuard](https://github.com/chiragbhoi01/ecoguard-lakecity)** | **AI / IoT** | `Gemini AI` `Next.js` `Maps API` | [cite_start]**National Finalist Project.** Smart waste segregation & routing. [cite: 96] |
-| **🏰 [Rajmahal](https://github.com/chiragbhoi01/fullstackproject)** | **E-Comm** | `MERN` `JWT` `Redux` | [cite_start]Full Rental Platform with **Admin CMS** & Auth. [cite: 30] |
-| **🏞️ [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad)** | **Tourism** | `TypeScript` `React` | [cite_start]Promoting culture of the **City of 100 Islands**. [cite: 89] |
-| **💰 [Expense Tracker](https://github.com/chiragbhoi01/MoneyExpense-Tracker)** | **Finance** | `Svelte` `Appwrite` | [cite_start]Lightweight expense manager with secure login. [cite: 172] |
-| **💎 [Jewelry Store](https://github.com/chiragbhoi01/Ecommerce-jewellery-website)** | **E-Comm** | `React` `Tailwind` | [cite_start]Modern UI with dynamic filtering & sorting. [cite: 166] |
+| **♻️ [EcoGuard](https://github.com/chiragbhoi01/ecoguard-lakecity)** | **AI / IoT** | `Gemini AI` `Next.js` `Maps API` | **National Finalist Project.** Showcased at VBYLD 2026. |
+| **🏰 [Rajmahal](https://github.com/chiragbhoi01/fullstackproject)** | **E-Comm** | `MERN` `JWT` `Redux` | Full Rental Platform with **Admin CMS** & Auth. |
+| **🏞️ [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad)** | **Tourism** | `TypeScript` `React` | Promoting culture of the **City of 100 Islands**. |
+| **💰 [Expense Tracker](https://github.com/chiragbhoi01/MoneyExpense-Tracker)** | **Finance** | `Svelte` `Appwrite` | Lightweight expense manager with secure login. |
+| **💎 [Jewelry Store](https://github.com/chiragbhoi01/Ecommerce-jewellery-website)** | **E-Comm** | `React` `Tailwind` | Modern UI with dynamic filtering & sorting. |
 
 ---
 
