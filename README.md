@@ -43,7 +43,7 @@ I'm **Chirag Bhoi**, a Full-Stack Developer and MCA student at **Manipal Univers
 
 - 🎓 **Education:** MCA @ Manipal University Jaipur *(2024 – 2026)*
 - 💼 **Current Role:** Senior Research Analyst @ Arcgate Technologies, Udaipur
-- 🔭 **Currently Building:** [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad) — Tourism Tech for the City of 100 Islands
+- 🔭 **Currently Building:** [Visit Vagad](visitvagad.com) [Github](https://github.com/chiragbhoi01/visit-vagad) — Tourism Tech for the City of 100 Islands
 - 🌱 **Currently Learning:** Docker, Containerization & Appwrite Cloud
 - 🤝 **Open For:** Full-Time Full-Stack / MERN Developer Roles
 - ⚡ **Superpower:** Turning complex backend logic into seamless user experiences
@@ -89,7 +89,7 @@ I'm **Chirag Bhoi**, a Full-Stack Developer and MCA student at **Manipal Univers
 | :--- | :--- | :--- | :--- |
 | **♻️ [EcoGuard](https://github.com/chiragbhoi01/ecoguard-lakecity)** | AI / Sustainability | `Gemini AI` `Next.js` `Google Maps API` | 🏆 **National Finalist — VBYLD 2026**. AI-powered waste segregation system targeting 99% sorting accuracy. |
 | **🏰 [Rajmahal Udaipur](https://github.com/chiragbhoi01/fullstackproject)** | Full-Stack E-Commerce | `Next.js 14` `Node.js` `Express` `MongoDB` `JWT` `TypeScript` `ImageKit` | Full rental platform with Admin CMS, RBAC, and cookie-based JWT auth. |
-| **🏞️ [Visit Vagad](https://github.com/chiragbhoi01/visit-vagad)** | Tourism Tech | `React` `TypeScript` `Tailwind CSS` | Promoting the culture & tourism of the City of 100 Islands, Banswara. |
+| **🏞️ [Visit Vagad](https://github.com/visitvagad/visitvagad-nextjs)** | Tourism Tech | `React` `TypeScript` `Tailwind CSS` | Promoting the culture & tourism of the City of 100 Islands, Banswara. |
 | **💰 [Expense Tracker](https://github.com/chiragbhoi01/MoneyExpense-Tracker)** | Finance App | `Svelte` `Appwrite` | Lightweight expense manager with secure Appwrite authentication. |
 | **🌦️ [Weather Checker](https://github.com/chiragbhoi01/weather-checker)** | API Integration | `JavaScript` `Async/Await` `HTML` `CSS` | Real-time weather data with robust error handling and minimal dependencies. |
 | **✅ [Todo App](https://github.com/chiragbhoi01/todo-app)** | Productivity | `React.js` `JavaScript` `CSS` | Full CRUD task manager using React hooks for dynamic state management. |
