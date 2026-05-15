@@ -43,7 +43,7 @@ I'm **Chirag Bhoi**, a Full-Stack Developer and MCA student at **Manipal Univers
 
 - 🎓 **Education:** MCA @ Manipal University Jaipur *(2024 – 2026)*
 - 💼 **Current Role:** Senior Research Analyst @ Arcgate Technologies, Udaipur
-- 🔭 **Currently Building:** [Visit Vagad](visitvagad.com) [Github](https://github.com/chiragbhoi01/visit-vagad) — Tourism Tech for the City of 100 Islands
+- 🔭 **Currently Building:** [Visit Vagad](https://www.visitvagad.com)  — Tourism Tech for the City of 100 Islands
 - 🌱 **Currently Learning:** Docker, Containerization & Appwrite Cloud
 - 🤝 **Open For:** Full-Time Full-Stack / MERN Developer Roles
 - ⚡ **Superpower:** Turning complex backend logic into seamless user experiences
